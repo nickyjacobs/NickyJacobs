@@ -29,12 +29,12 @@ My objective is to further grow my technical and analytical skills within **SOC 
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nmap-004F9F?&style=for-the-badge&logo=Nmap&logoColor=white" />
 </div>
 
-### Endpoint
+### Endpoint & Operating Systems
 <div>
+    <img src="https://img.shields.io/badge/-Windows_Endpoints-0078D6?&style=for-the-badge&logo=Windows&logoColor=white" />
     <img src="https://img.shields.io/badge/-Kali_Linux-FCC624?&style=for-the-badge&logo=Linux&logoColor=black" />
     <img src="https://img.shields.io/badge/-Linux-000000?&style=for-the-badge&logo=Linux&logoColor=white" />
 </div>
@@ -46,6 +46,42 @@ My objective is to further grow my technical and analytical skills within **SOC 
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Rapid7-EE6C4D?&style=for-the-badge&logoColor=white" />
     <img src="https://img.shields.io/badge/-MITRE_ATT%26CK-000000?&style=for-the-badge&logoColor=white" />
+</div>
+
+### Digital Forensics & Incident Response (DFIR)
+<div>
+    <img src="https://img.shields.io/badge/-Autopsy-2E3440?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-FTK_Imager-4B275F?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-CAPE_Imager-3A3A3A?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-ProcDump-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+</div>
+
+### Memory & Artifact Analysis
+<div>
+    <img src="https://img.shields.io/badge/-Volatility-6A1B9A?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-JumpListExplorer-37474F?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-ExifTool-795548?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Scalpel-263238?&style=for-the-badge&logoColor=white" />
+</div>
+
+### Detection, Analysis & Utilities
+<div>
+    <img src="https://img.shields.io/badge/-CyberChef-1565C0?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-DeepBlueCLI-0D47A1?&style=for-the-badge&logoColor=white" />
+</div>
+
+### Offensive & Web Security
+<div>
+    <img src="https://img.shields.io/badge/-Metasploit-2596CD?&style=for-the-badge&logo=Metasploit&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Burp_Suite-FF6F00?&style=for-the-badge&logo=BurpSuite&logoColor=white" />
+</div>
+
+### Identity, Threat Intelligence & OSINT
+<div>
+    <img src="https://img.shields.io/badge/-Active_Directory-003366?&style=for-the-badge&logo=Windows&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Microsoft_Entra_ID-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-MISP-4A148C?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-OSINT-263238?&style=for-the-badge&logoColor=white" />
 </div>
 
 ## Certifications
