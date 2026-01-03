@@ -45,7 +45,14 @@ My objective is to further grow my technical and analytical skills within **SOC 
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Rapid7-EE6C4D?&style=for-the-badge&logoColor=white" />
+</div>
+
+### Frameworks & Methodologies
+<div>
     <img src="https://img.shields.io/badge/-MITRE_ATT%26CK-000000?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Cyber_Kill_Chain-263238?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Diamond_Model-37474F?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-ISO_27001-1565C0?&style=for-the-badge&logoColor=white" />
 </div>
 
 ### Digital Forensics & Incident Response (DFIR)
