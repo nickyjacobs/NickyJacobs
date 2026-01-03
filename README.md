@@ -49,7 +49,7 @@ My objective is to further grow my technical and analytical skills within **SOC 
 
 <div>
 <img src="https://img.shields.io/badge/-ITIL%C2%AE_4_Foundation-5A2D82?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-BTL1_(Planned)-004D40?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-BTL1-004D40?&style=for-the-badge&logoColor=white" />
 </div>
 
 ## Projects
