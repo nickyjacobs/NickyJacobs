@@ -23,7 +23,7 @@ My objective is to further grow my technical and analytical skills within **SOC 
 | DFIR Fundamentals | SOC Incident Handling |
 | Security Frameworks (MITRE ATT&CK, ISO 27001) | Security Orchestration |
 | Documentation & Reporting | GitHub Portfolio |
-| Documentation & Reporting | [Documentation coming soon](./Systems-Security) |
+| Documentation & Reporting | [Documentation coming soon](../Systems-Security) |
 
 ## Tools
 
