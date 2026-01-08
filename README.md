@@ -37,7 +37,6 @@ My objective is to further grow my technical and analytical skills within **SOC 
 <div>
     <img src="https://img.shields.io/badge/-Windows-0078D6?&style=for-the-badge&logo=Microsoft&logoColor=white" />
   <img src="https://img.shields.io/badge/-MacOS-0078D6?&style=for-the-badge&logo=Apple&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Kali_Linux-FCC624?&style=for-the-badge&logo=Linux&logoColor=black" />
     <img src="https://img.shields.io/badge/-Linux-000000?&style=for-the-badge&logo=Linux&logoColor=white" />
 </div>
 
