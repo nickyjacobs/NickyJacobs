@@ -26,6 +26,7 @@ My objective is to further grow my technical and analytical skills within **SOC 
 | Offensive & Defensive Systems Security | [Systems Security (SYS) – Final Project ⭐](https://github.com/nickyjacobs/Systems-Security) |
 | Security Tool Development & Engineering | [JSS — JacOps Security Suite](https://github.com/nickyjacobs/JSS) |
 | AI-Driven Security Automation | [cyber-agent — Autonomous Cybersecurity Agent](https://github.com/nickyjacobs/cyber-agent) |
+| Linux Privacy & Security Configuration | [linux-privacy-setup-toolkit](https://github.com/nickyjacobs/linux-privacy-setup-toolkit) |
 
 ## Tools
 
@@ -116,6 +117,9 @@ My objective is to further grow my technical and analytical skills within **SOC 
 
 - **JSS — JacOps Security Suite**  
   Modular Python-based cybersecurity suite featuring 10 professional security tools with CLI and optional web GUIs, including network scanning, intrusion detection, vulnerability analysis, password policy auditing, and threat intelligence dashboards.
+
+- **Linux Privacy Setup Toolkit**  
+  A comprehensive Bash-based toolkit to automate privacy and security hardening on Linux systems. It includes configuration presets, service hardening, firewall and app-level privacy options, and scripted automation for consistent Linux system reinforcement.
 
 - SOC & Security Orchestration  
 - Homelab Network & Segmentation  
