@@ -24,9 +24,9 @@ My objective is to further grow my technical and analytical skills within **SOC 
 | Security Frameworks (MITRE ATT&CK, ISO 27001) | Security Orchestration |
 | Documentation & Reporting | GitHub Portfolio |
 | Offensive & Defensive Systems Security | [Systems Security (SYS) – Final Project ⭐](https://github.com/nickyjacobs/Systems-Security) |
-| Security Tool Development & Engineering | [JSS — JacOps Security Suite](https://github.com/nickyjacobs/JSS) |
-| AI-Driven Security Automation | [cyber-agent — Autonomous Cybersecurity Agent](https://github.com/nickyjacobs/cyber-agent) |
-| Linux Privacy & Security Configuration | [linux-privacy-setup-toolkit](https://github.com/nickyjacobs/linux-privacy-setup-toolkit) |
+| Security Tool Development & Engineering | [JacOps Security Suite](https://github.com/nickyjacobs/JSS) |
+| AI-Driven Security Automation | [Cyber Agent](https://github.com/nickyjacobs/cyber-agent) |
+| Linux Privacy & Security Configuration | [Linux Privacy Setup Toolkit](https://github.com/nickyjacobs/linux-privacy-setup-toolkit) |
 
 ## Tools
 
