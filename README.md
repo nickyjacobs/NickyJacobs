@@ -24,6 +24,8 @@ My objective is to further grow my technical and analytical skills within **SOC 
 | Security Frameworks (MITRE ATT&CK, ISO 27001) | Security Orchestration |
 | Documentation & Reporting | GitHub Portfolio |
 | Offensive & Defensive Systems Security | [Systems Security (SYS) – Final Project ⭐](https://github.com/nickyjacobs/Systems-Security) |
+| Security Tool Development & Engineering | [JSS — JacOps Security Suite](https://github.com/nickyjacobs/JSS) |
+| AI-Driven Security Automation | [cyber-agent — Autonomous Cybersecurity Agent](https://github.com/nickyjacobs/cyber-agent) |
 
 ## Tools
 
@@ -92,6 +94,14 @@ My objective is to further grow my technical and analytical skills within **SOC 
     <img src="https://img.shields.io/badge/-OSINT-263238?&style=for-the-badge&logoColor=white" />
 </div>
 
+### Programming & Automation
+<div>
+    <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" />
+    <img src="https://img.shields.io/badge/-TypeScript-3178C6?&style=for-the-badge&logo=TypeScript&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Node.js-339933?&style=for-the-badge&logo=Node.js&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Security_Automation-263238?&style=for-the-badge&logoColor=white" />
+</div>
+
 ## Certifications
 
 <div>
@@ -100,7 +110,14 @@ My objective is to further grow my technical and analytical skills within **SOC 
 </div>
 
 ## Projects
-- SOC & Security Orchestration
-- Homelab Network & Segmentation
-- Threat Intelligence Research
-- Incident Response & Reporting
+
+- **cyber-agent — Autonomous AI-Driven Cybersecurity Agent**  
+  AI-powered security agent built with TypeScript and Claude Agent SDK that autonomously orchestrates Kali Linux tools (nmap, nikto, tshark, etc.), interprets output, and maps findings to MITRE ATT&CK across red team, blue team, and OSINT workflows.
+
+- **JSS — JacOps Security Suite**  
+  Modular Python-based cybersecurity suite featuring 10 professional security tools with CLI and optional web GUIs, including network scanning, intrusion detection, vulnerability analysis, password policy auditing, and threat intelligence dashboards.
+
+- SOC & Security Orchestration  
+- Homelab Network & Segmentation  
+- Threat Intelligence Research  
+- Incident Response & Reporting  
