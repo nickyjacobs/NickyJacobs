@@ -113,15 +113,20 @@ My objective is to further grow my technical and analytical skills within **SOC 
 ## Projects
 
 - **cyber-agent — Autonomous AI-Driven Cybersecurity Agent**  
-  AI-powered security agent built with TypeScript and Claude Agent SDK that autonomously orchestrates Kali Linux tools (nmap, nikto, tshark, etc.), interprets output, and maps findings to MITRE ATT&CK across red team, blue team, and OSINT workflows.
+  AI-powered security agent built with TypeScript and Claude Agent SDK that autonomously orchestrates Kali Linux tools, interprets output, and maps findings to MITRE ATT&CK across red team, blue team, and OSINT workflows.
 
 - **JSS — JacOps Security Suite**  
   Modular Python-based cybersecurity suite featuring 10 professional security tools with CLI and optional web GUIs, including network scanning, intrusion detection, vulnerability analysis, password policy auditing, and threat intelligence dashboards.
 
 - **Linux Privacy Setup Toolkit**  
-  A comprehensive Bash-based toolkit to automate privacy and security hardening on Linux systems. It includes configuration presets, service hardening, firewall and app-level privacy options, and scripted automation for consistent Linux system reinforcement.
+  A Bash-based toolkit to automate Linux privacy and security hardening including configuration presets, firewall rules, service hardening, and privacy-enhancing automation.
+
+- **UniFi Network Architecture & Segmentation Project**  
+  Fully segmented home lab network using VLAN architecture, zone-based firewall policies, WireGuard VPN, IGMP snooping, and Home Assistant integrations. Includes structured documentation and visual configuration logic.
+
+- **Cowrie Honeypot Deployment (Raspberry Pi 5)**  
+  SSH honeypot deployment using Cowrie with Slack webhook alerts, authbind configuration for port 22, fake shell environment simulation, and structured log analysis for monitoring unauthorized access attempts.
 
 - SOC & Security Orchestration  
-- Homelab Network & Segmentation  
 - Threat Intelligence Research  
 - Incident Response & Reporting  
