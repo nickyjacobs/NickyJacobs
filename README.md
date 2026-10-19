@@ -23,10 +23,10 @@ My objective is to further grow my technical and analytical skills within **SOC 
 | DFIR Fundamentals | SOC Incident Handling |
 | Security Frameworks (MITRE ATT&CK, ISO 27001) | Security Orchestration |
 | Documentation & Reporting | GitHub Portfolio |
-| Offensive & Defensive Systems Security | [Systems Security (SYS) – Final Project ⭐](https://github.com/nickyjacobs/Systems-Security) |
-| Security Tool Development & Engineering | [JacOps Security Suite](https://github.com/nickyjacobs/JSS) |
-| AI-Driven Security Automation | [Cyber Agent](https://github.com/nickyjacobs/cyber-agent) |
-| Linux Privacy & Security Configuration | [Linux Privacy Setup Toolkit](https://github.com/nickyjacobs/linux-privacy-setup-toolkit) |
+| Offensive Tooling & Workflow Automation | [dropzone ⭐](https://github.com/nickyjacobs/dropzone) |
+| Security-First Infrastructure | [JacOps Homelab](https://github.com/nickyjacobs/JacOps-Homelab) |
+| AI-Driven Automation & Knowledge Management | [CYRIX MK-III](https://github.com/nickyjacobs/CYRIX-MK-III) |
+| AI-Assisted Writing Tooling | [DutchQuill AI](https://github.com/nickyjacobs/DutchQuill-AI) |
 
 ## Tools
 
@@ -112,14 +112,17 @@ My objective is to further grow my technical and analytical skills within **SOC 
 
 ## Projects
 
-- **cyber-agent — Autonomous AI-Driven Cybersecurity Agent**  
-  AI-powered security agent built with TypeScript and Claude Agent SDK that autonomously orchestrates Kali Linux tools, interprets output, and maps findings to MITRE ATT&CK across red team, blue team, and OSINT workflows.
+- **[dropzone](https://github.com/nickyjacobs/dropzone) — Per-Box Shell Tooling for Kali**  
+  Zsh plugin that sets up a work folder, Obsidian note, target variables and hosts entry for a box in one command. Built for HTB, CPTS and OSCP, with CI, versioned releases and full documentation.
 
-- **JSS — JacOps Security Suite**  
-  Modular Python-based cybersecurity suite featuring 10 professional security tools with CLI and optional web GUIs, including network scanning, intrusion detection, vulnerability analysis, password policy auditing, and threat intelligence dashboards.
+- **[JacOps Homelab](https://github.com/nickyjacobs/JacOps-Homelab) — Security-First Homelab**  
+  Documentation of my homelab, built around security-first decisions: hardware, network design, lessons learned and roadmap, in English and Dutch, with secret scanning and link checks in CI.
 
-- **Linux Privacy Setup Toolkit**  
-  A Bash-based toolkit to automate Linux privacy and security hardening including configuration presets, firewall rules, service hardening, and privacy-enhancing automation.
+- **[CYRIX MK-III](https://github.com/nickyjacobs/CYRIX-MK-III) — Personal Assistant Template for Claude Code**  
+  Executive assistant setup on Claude Code with an LLM-maintained wiki, an automated session pipeline, document ingest, specialised agents and secret-scanning hooks.
+
+- **[DutchQuill AI](https://github.com/nickyjacobs/DutchQuill-AI) — Dutch Academic Writing Assistant**  
+  Writing assistant for Dutch academic reports (HBO, APA 7) built on Claude Code, with skills for writing, rewriting and reviewing, plus tooling for APA checks and DOCX conversion.
 
 - **UniFi Network Architecture & Segmentation Project**  
   Fully segmented home lab network using VLAN architecture, zone-based firewall policies, WireGuard VPN, IGMP snooping, and Home Assistant integrations. Includes structured documentation and visual configuration logic.
